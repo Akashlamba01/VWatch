@@ -11,7 +11,7 @@
 
 ## Introduction
 
-VWatch is an innovative and user-centric project designed to redefine your video-watching experience. Whether you're a movie buff, a binge-watcher, or an avid follower of your favorite web series, VWatch is here to elevate your entertainment journey to new heights. There are a unique feature of watch with friends and access the screen at same time and chat each other.
+VWatch is an innovative and user-centric project designed to redefine your video-watching experience. Whether you're a movie buff, a binge-watcher, or an avid follower of your favorite web series, VWatch is here to elevate your entertainment journey to new heights. There are a unique feature of watch with friends in different screens and access the screen at the same time and chat with each other.
 
 ## Screenshot
 
