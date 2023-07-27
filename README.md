@@ -1,6 +1,6 @@
 # VWatch
 
-### Note:- The project created by me and my 2 friend, in which I worked as a Node.js Developer. We want to use it for business purpose For reason we can not share code on github.
+### Note:- The project created by me and my 2 friend, in which I worked as a Node.js Developer. We want to use it for business purpose so that the reason we can not public over code on github.
 
 ## Table of Contents
 
